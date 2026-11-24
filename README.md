@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: startup-optimizer-ai, startup, optimizer, , ai, boot, speed, windows, performance, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+startup optimizer startup ai boot speed windows performance boot-optimizer-ai startup-tuner startup-optimizer-ai windows portable prebuilt x64 free download
+related: startup, optimizer, startup, ai, boot, speed, windows, performance
