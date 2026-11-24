@@ -1,0 +1,23 @@
+{
+  "module": "startup-optimizer-ai",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "scan": {
+      "enabled": true
+    },
+    "classify": {
+      "enabled": true
+    },
+    "tune": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
